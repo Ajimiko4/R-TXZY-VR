@@ -1,1 +1,1 @@
-worker: npm start
+worker: node . --db 'https://json-server.ajimiko.repl.co'
