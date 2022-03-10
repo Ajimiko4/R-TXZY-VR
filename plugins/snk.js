@@ -26,6 +26,7 @@ Syarat Ketentuan R-Txyz Bot
 4. R-Txzy akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
 5. R-Txzy bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
 
+- UnKnOwN
 - AlyaXd
 - TioXd
 
